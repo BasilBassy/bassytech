@@ -1,0 +1,104 @@
+body {
+    background-color: black;
+    color: #f1f1f1;
+    width: 0 auto;
+    }
+
+.content h1 {
+    font-size: 50px;
+    font-weight: 600;
+    color: white;
+    float: inline-start;
+    padding: 120px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.content a h1{
+    text-decoration: none;
+}
+
+.fa {
+    padding: 15px;
+    color: black;
+    background-color: white;
+    border-radius: 100%;
+}
+
+.content h2 {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #008099;
+    letter-spacing: 2px;
+    display: block;
+    margin: 70px;
+}
+
+.content h3 {
+    font-size: 35px;
+    color: rgb(241, 241, 241);
+    box-sizing: border-box;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    margin: 70px;
+}
+
+p {
+    color: #999ea5;
+    font-size: 19px;
+    font-weight: normal;
+    box-sizing: border-box;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    margin: 70px;
+}
+
+ul {
+    font-size: 19px;
+    font-weight: normal;
+    line-height: 26px;
+    color: #6aecce;
+    margin-bottom: 15px;
+   }
+
+.tech {
+    float: right;
+    margin: 70px;
+}
+
+.tech h1 {
+    color: #008099;
+}
+.tech h2{
+    font-size: 28px;
+}
+
+.mybtn {
+    background-color: #008099;
+    width: 170px;
+    border-radius: 30px;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+}
+
+.footer {
+    text-align: center;
+    margin: 90px;
+    padding: 15px;
+    margin-top: 250px;
+}
+
+.demo h1 {
+    font-size: 18px;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 2px 0px 95px 70px;
+}
+.demo{
+    margin: 70px;
+}
